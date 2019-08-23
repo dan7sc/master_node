@@ -1,0 +1,14 @@
+{
+    "name": "anatomy-of-a-node-application",
+    "version": "0.0.1",
+    "license": "UNLICENSED",
+    "private": true,
+    "description": "Simple file that declares a few functions and invokes them",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "jokes" : "0.1.3"
+    }
+  }
